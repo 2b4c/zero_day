@@ -1,2 +1,3 @@
-# zero_day
-This is my first repository as a full_sack engineer 
+ Zero_day
+ 0x00-vagrant
+0-hello_ubuntu
